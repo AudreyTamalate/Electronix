@@ -9,7 +9,9 @@
 
 2. Mulai Aplikasi:
     - Clone repositori ini ke dalam direktori web server Anda atau ekstrak ke dalam direktori web server yang sudah ada.
-    - Pastikan server web Anda sudah berjalan (misalnya, Apache).
+    - Pastikan server web Anda sudah berjalan (misalnya, Apache dan MySQL).
+    - Pastikan file web disimpan dalam XAMPP folder htdocs
+    - Import databse ke phpmyadmin
     - Buka aplikasi di peramban web Anda dengan alamat `http://localhost/nama-aplikasi`.
 
 3. Lihat Detail Produk:
@@ -32,6 +34,4 @@
     - Tekan Enter atau klik tombol "Cari".
 
 7. Kelola Produk (opsional):
-    - Untuk menambah, mengedit, atau menghapus produk, akseslah halaman admin dengan login sebagai admin.
-    - Buka halaman admin dengan alamat `http://localhost/nama-aplikasi/admin`.
-    - Masukkan kredensial admin dan kelola produk sesuai kebutuhan.
+    - Untuk menambah, mengedit, atau menghapus produk, akseslah halaman cart untuk mengedit barang.
